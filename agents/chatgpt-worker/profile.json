@@ -1,0 +1,19 @@
+{
+  "id": "agent-e5512a52-ac06-4a63-94f2-08e6d027ff75",
+  "name": "ChatGPT Worker",
+  "title": "",
+  "description": "work within my ChatGPT to connect projects",
+  "notifications": true,
+  "model": "gpt-6.1-sol",
+  "reasoningEffort": "xhigh",
+  "threadId": "openbot-thread-agent-e5512a52-ac06-4a63-94f2-08e6d027ff75",
+  "workspacePath": "C:\\Users\\colt3\\OpenBot\\Agents\\agent-e5512a52-ac06-4a63-94f2-08e6d027ff75",
+  "preview": "Completed and attached the checked **15-page Botkin Materials Purchase List**, containing all **112 entries**, plus editable CSV and Markdown companions.\n\nBoth approved SOW PDFs ar",
+  "updatedAt": "2026-11-03T21:40:17.862Z",
+  "avatarSeed": "first-bot:avatar:0:5",
+  "avatarHue": 215,
+  "avatarUrl": null,
+  "provider": "codex",
+  "access": "full",
+  "computerUse": true
+}
