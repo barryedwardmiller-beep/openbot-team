@@ -1,0 +1,19 @@
+{
+  "id": "agent-4c76a49f-8ab9-47f4-8a27-6452a7f6b861",
+  "name": "Task Manager",
+  "title": "Managing all the other bots",
+  "description": "Managing all the other bots",
+  "notifications": true,
+  "model": "gpt-oss-120b-medium",
+  "reasoningEffort": "medium",
+  "threadId": "openbot-thread-agent-4c76a49f-8ab9-47f4-8a27-6452a7f6b861",
+  "workspacePath": "C:\\Users\\colt3\\OpenBot\\Agents\\agent-4c76a49f-8ab9-47f4-8a27-6452a7f6b861",
+  "preview": "**Website Creator**\n\nThe site now includes product links extracted from the material boards. Out of the 104 catalog items, 74 (71 %) have clickable URLs:\n\n- **Kearsarge board:** 36",
+  "updatedAt": "2026-11-05T17:48:52.249Z",
+  "avatarSeed": "first-bot:avatar:0:1",
+  "avatarHue": null,
+  "avatarUrl": null,
+  "provider": "antigravity",
+  "access": "full",
+  "computerUse": true
+}

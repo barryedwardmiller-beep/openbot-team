@@ -1,0 +1,19 @@
+{
+  "id": "agent-d5603502-6a22-4ab4-8b7a-efd103708f46",
+  "name": "Website Creator",
+  "title": "",
+  "description": "Create Websites",
+  "notifications": true,
+  "model": "gemini-3.8-flash",
+  "reasoningEffort": "high",
+  "threadId": "openbot-thread-agent-d5603502-6a22-4ab4-8b7a-efd103708f46",
+  "workspacePath": "C:\\Users\\colt3\\OpenBot\\Agents\\agent-d5603502-6a22-4ab4-8b7a-efd103708f46",
+  "preview": "ok resume your work",
+  "updatedAt": "2026-11-05T17:54:16.802Z",
+  "avatarSeed": "first-bot:face:33",
+  "avatarHue": 320,
+  "avatarUrl": null,
+  "provider": "antigravity",
+  "access": "full",
+  "computerUse": true
+}

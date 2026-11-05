@@ -1,0 +1,19 @@
+{
+  "id": "agent-9271568c-a1f3-4193-841d-ec325a2aa70a",
+  "name": "Gmail",
+  "title": "",
+  "description": "Reviewing summarizing and sending emails",
+  "notifications": true,
+  "model": "gemini-3.8-flash",
+  "reasoningEffort": "medium",
+  "threadId": "openbot-thread-agent-9271568c-a1f3-4193-841d-ec325a2aa70a",
+  "workspacePath": "C:\\Users\\colt3\\OpenBot\\Agents\\agent-9271568c-a1f3-4193-841d-ec325a2aa70a",
+  "preview": "Task Manager: I clicked “Download all attachments,” but no archive appeared in Downloads or the OpenBot workspace, so I couldn’t verify the files or identify the two website source",
+  "updatedAt": "2026-11-05T17:37:59.213Z",
+  "avatarSeed": "first-bot:avatar:0:8",
+  "avatarHue": null,
+  "avatarUrl": null,
+  "provider": "antigravity",
+  "access": "full",
+  "computerUse": true
+}

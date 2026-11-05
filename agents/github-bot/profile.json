@@ -1,0 +1,19 @@
+{
+  "id": "agent-45ad485a-8c27-49f0-a093-03146f5afee1",
+  "name": "Github Bot",
+  "title": "",
+  "description": "works with my connected github account",
+  "notifications": true,
+  "provider": "antigravity",
+  "model": "gemini-3.8-flash",
+  "reasoningEffort": "medium",
+  "access": "full",
+  "computerUse": true,
+  "threadId": "openbot-thread-agent-45ad485a-8c27-49f0-a093-03146f5afee1",
+  "workspacePath": "C:\\Users\\colt3\\OpenBot\\Agents\\agent-45ad485a-8c27-49f0-a093-03146f5afee1",
+  "preview": "ok now can you do that?",
+  "updatedAt": "2026-11-05T17:53:07.439Z",
+  "avatarSeed": "first-bot:face:193",
+  "avatarHue": null,
+  "avatarUrl": null
+}
