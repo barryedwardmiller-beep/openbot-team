@@ -1,0 +1,19 @@
+{
+  "id": "agent-18a67b51-6dcf-4b1a-bc5a-9239e6b87f99",
+  "name": "Search Bot",
+  "title": "",
+  "description": "Use google to search the web and comparativley shop",
+  "notifications": true,
+  "model": "grok-4.6",
+  "reasoningEffort": "high",
+  "threadId": "openbot-thread-agent-18a67b51-6dcf-4b1a-bc5a-9239e6b87f99",
+  "workspacePath": "C:\\Users\\colt3\\OpenBot\\Agents\\agent-18a67b51-6dcf-4b1a-bc5a-9239e6b87f99",
+  "preview": "The comparison PDF is updated from the 112-row CSV. Nothing was purchased.\n\n[Botkin_Materials_Price_Comparison.pdf](C:\\Users\\colt3\\OpenBot\\Shared\\SOW-2026-11-03\\Botkin_Materials_Pr",
+  "updatedAt": "2026-11-04T14:17:16.056Z",
+  "avatarSeed": "first-bot:avatar:0:30",
+  "avatarHue": null,
+  "avatarUrl": null,
+  "provider": "grok",
+  "access": "full",
+  "computerUse": true
+}
